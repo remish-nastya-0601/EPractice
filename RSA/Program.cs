@@ -34,7 +34,7 @@ namespace RSA
                     int mes = 0;
                     while(!Int32.TryParse(text, out mes))
                     {
-                        Console.WriteLine("Можно вводить только целые числа! Введите сообщение:");
+                        Console.WriteLine("Можно вводить только целые числа! \nВведите сообщение:");
                         text = Console.ReadLine().ToLower();
                     }
                     int res_encode = (int)BigInteger.ModPow(mes, e, N);
