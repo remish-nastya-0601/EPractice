@@ -1,0 +1,7 @@
+C:\Users\remis\source\repos\HMAC_Hash\bin\Debug\HMAC_Hash.exe.config
+C:\Users\remis\source\repos\HMAC_Hash\bin\Debug\HMAC_Hash.exe
+C:\Users\remis\source\repos\HMAC_Hash\bin\Debug\HMAC_Hash.pdb
+C:\Users\remis\source\repos\HMAC_Hash\obj\Debug\HMAC_Hash.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\HMAC_Hash\obj\Debug\HMAC_Hash.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\HMAC_Hash\obj\Debug\HMAC_Hash.exe
+C:\Users\remis\source\repos\HMAC_Hash\obj\Debug\HMAC_Hash.pdb
