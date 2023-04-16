@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RPA_podpis_proverka/1.0.0": {
+        "runtime": {
+          "RPA_podpis_proverka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPA_podpis_proverka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

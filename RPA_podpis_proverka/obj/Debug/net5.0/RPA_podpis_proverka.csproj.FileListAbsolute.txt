@@ -1,0 +1,16 @@
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.exe
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.deps.json
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.runtimeconfig.json
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.runtimeconfig.dev.json
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.dll
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\ref\RPA_podpis_proverka.dll
+C:\Users\remis\source\repos\RPA_podpis_proverka\bin\Debug\net5.0\RPA_podpis_proverka.pdb
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.AssemblyInfoInputs.cache
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.AssemblyInfo.cs
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.dll
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\ref\RPA_podpis_proverka.dll
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.pdb
+C:\Users\remis\source\repos\RPA_podpis_proverka\obj\Debug\net5.0\RPA_podpis_proverka.genruntimeconfig.cache
