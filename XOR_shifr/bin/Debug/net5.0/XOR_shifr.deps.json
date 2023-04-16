@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "XOR_shifr/1.0.0": {
+        "runtime": {
+          "XOR_shifr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XOR_shifr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
