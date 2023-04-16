@@ -1,0 +1,7 @@
+C:\Users\remis\source\repos\ShifrPerestanovka\bin\Debug\ShifrPerestanovka.exe.config
+C:\Users\remis\source\repos\ShifrPerestanovka\bin\Debug\ShifrPerestanovka.exe
+C:\Users\remis\source\repos\ShifrPerestanovka\bin\Debug\ShifrPerestanovka.pdb
+C:\Users\remis\source\repos\ShifrPerestanovka\obj\Debug\ShifrPerestanovka.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\ShifrPerestanovka\obj\Debug\ShifrPerestanovka.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\ShifrPerestanovka\obj\Debug\ShifrPerestanovka.exe
+C:\Users\remis\source\repos\ShifrPerestanovka\obj\Debug\ShifrPerestanovka.pdb
