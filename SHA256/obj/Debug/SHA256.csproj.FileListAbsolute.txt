@@ -1,0 +1,7 @@
+C:\Users\remis\source\repos\SHA256\bin\Debug\SHA256.exe.config
+C:\Users\remis\source\repos\SHA256\bin\Debug\SHA256.exe
+C:\Users\remis\source\repos\SHA256\bin\Debug\SHA256.pdb
+C:\Users\remis\source\repos\SHA256\obj\Debug\SHA256.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\SHA256\obj\Debug\SHA256.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\SHA256\obj\Debug\SHA256.exe
+C:\Users\remis\source\repos\SHA256\obj\Debug\SHA256.pdb
