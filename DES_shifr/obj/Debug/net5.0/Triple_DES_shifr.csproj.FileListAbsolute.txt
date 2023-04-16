@@ -1,0 +1,16 @@
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.csprojAssemblyReference.cache
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.AssemblyInfoInputs.cache
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.AssemblyInfo.cs
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.csproj.CoreCompileInputs.cache
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.exe
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.deps.json
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.runtimeconfig.json
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.runtimeconfig.dev.json
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.dll
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\ref\Triple_DES_shifr.dll
+C:\Users\denxa\source\repos\Triple_DES_shifr\bin\Debug\net5.0\Triple_DES_shifr.pdb
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.dll
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\ref\Triple_DES_shifr.dll
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.pdb
+C:\Users\denxa\source\repos\Triple_DES_shifr\obj\Debug\net5.0\Triple_DES_shifr.genruntimeconfig.cache

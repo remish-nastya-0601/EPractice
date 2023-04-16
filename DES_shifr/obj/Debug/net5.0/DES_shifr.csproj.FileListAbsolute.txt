@@ -1,0 +1,16 @@
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.exe
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.deps.json
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.runtimeconfig.json
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.runtimeconfig.dev.json
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.dll
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\ref\DES_shifr.dll
+C:\Users\remis\source\repos\DES_shifr\bin\Debug\net5.0\DES_shifr.pdb
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.AssemblyInfoInputs.cache
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.AssemblyInfo.cs
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.dll
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\ref\DES_shifr.dll
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.pdb
+C:\Users\remis\source\repos\DES_shifr\obj\Debug\net5.0\DES_shifr.genruntimeconfig.cache

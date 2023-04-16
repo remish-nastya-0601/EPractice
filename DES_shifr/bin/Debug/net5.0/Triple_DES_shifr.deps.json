@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Triple_DES_shifr/1.0.0": {
+        "runtime": {
+          "Triple_DES_shifr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triple_DES_shifr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
