@@ -1,0 +1,7 @@
+C:\Users\remis\source\repos\RSA_keys\bin\Debug\RSA_keys.exe.config
+C:\Users\remis\source\repos\RSA_keys\bin\Debug\RSA_keys.exe
+C:\Users\remis\source\repos\RSA_keys\bin\Debug\RSA_keys.pdb
+C:\Users\remis\source\repos\RSA_keys\obj\Debug\RSA_keys.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\RSA_keys\obj\Debug\RSA_keys.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\RSA_keys\obj\Debug\RSA_keys.exe
+C:\Users\remis\source\repos\RSA_keys\obj\Debug\RSA_keys.pdb
