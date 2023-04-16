@@ -1,0 +1,7 @@
+C:\Users\remis\source\repos\Shifr_Vigenera\obj\Debug\Shifr_Vigenera.csproj.AssemblyReference.cache
+C:\Users\remis\source\repos\Shifr_Vigenera\obj\Debug\Shifr_Vigenera.csproj.CoreCompileInputs.cache
+C:\Users\remis\source\repos\Shifr_Vigenera\bin\Debug\Shifr_Vigenera.exe.config
+C:\Users\remis\source\repos\Shifr_Vigenera\bin\Debug\Shifr_Vigenera.exe
+C:\Users\remis\source\repos\Shifr_Vigenera\bin\Debug\Shifr_Vigenera.pdb
+C:\Users\remis\source\repos\Shifr_Vigenera\obj\Debug\Shifr_Vigenera.exe
+C:\Users\remis\source\repos\Shifr_Vigenera\obj\Debug\Shifr_Vigenera.pdb
