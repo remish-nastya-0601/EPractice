@@ -1,0 +1,16 @@
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.exe
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.deps.json
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.runtimeconfig.json
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.runtimeconfig.dev.json
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.dll
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\ref\Shifr7_1.dll
+C:\Users\denxa\source\repos\Shifr7_1\bin\Debug\net5.0\Shifr7_1.pdb
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.csprojAssemblyReference.cache
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.AssemblyInfoInputs.cache
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.AssemblyInfo.cs
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.csproj.CoreCompileInputs.cache
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.dll
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\ref\Shifr7_1.dll
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.pdb
+C:\Users\denxa\source\repos\Shifr7_1\obj\Debug\net5.0\Shifr7_1.genruntimeconfig.cache

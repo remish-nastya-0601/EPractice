@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Shifr7_1/1.0.0": {
+        "runtime": {
+          "Shifr7_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shifr7_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
